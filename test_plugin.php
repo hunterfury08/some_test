@@ -1,5 +1,5 @@
 /*
  * Plugin Name: Test Plugin
  * Description: Test Plugin
- * Version: 1.0.0
+ * Version: 1.0.1
 */
